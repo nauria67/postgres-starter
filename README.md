@@ -1,4 +1,4 @@
-# Trial Management Service: database setup
+# Database setup
 
 This gives you a Postgres database so you can start on the problem right away. The API and frontend are yours to build, in any language and framework. You do not need to install any migration tool.
 
